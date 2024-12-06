@@ -14,3 +14,5 @@
 Yueyang: Use finegrained python map to optimize on the world cloud.
 
 Haotian: Investigate the decision tree properties to determine the correlation features for sentiment analysis.
+
+Vicky: Summarize panel regression and other literature!
