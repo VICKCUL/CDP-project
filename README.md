@@ -18,3 +18,17 @@ Haotian: Investigate the decision tree properties to determine the correlation f
 
 Vicky: Summarize panel regression and other literature!
 
+
+--------------------------------------------------------
+# 12/11: Meeting update
+
+> Homework:
+
+All: BERT/tSNE/UMAP visualization of th trajectory/word embedding
+
+Yueyang:  Optimize the word cloud andput in bar/pie plot. 
+Present the S... paper
+
+Haotian: Present the T... paper
+
+Vicky: Present the V... paper
