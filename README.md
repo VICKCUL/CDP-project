@@ -41,5 +41,7 @@ Vicky: Present the V... paper
 All: read Branco's paper in depth
 
 Vicky: explain data in depth
+
 Yueyang: upload the word cloud world map results
+
 Haotian: upload the embedding exploration results
