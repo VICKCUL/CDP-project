@@ -24,11 +24,22 @@ Vicky: Summarize panel regression and other literature!
 
 > Homework:
 
-All: BERT/tSNE/UMAP visualization of th trajectory/word embedding
+All: BERT/tSNE/UMAP visualization of the trajectory/word embedding
 
-Yueyang:  Optimize the word cloud andput in bar/pie plot. 
+Yueyang:  Optimize the word cloud and put in bar/pie plot. 
 Present the S... paper
 
 Haotian: Present the T... paper
 
 Vicky: Present the V... paper
+
+--------------------------------------------------------
+# 12/18: Meeting update
+
+> To do:
+
+All: read Branco's paper in depth
+
+Vicky: explain data in depth
+Yueyang: upload the word cloud world map results
+Haotian: upload the embedding exploration results
