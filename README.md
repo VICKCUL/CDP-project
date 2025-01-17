@@ -55,3 +55,14 @@ Vicky: Sumamrize and digitalize the time evolution of questionary from 2010 to 2
 Yueyang: llm prompt to evaluate environmental awareness from 0 to 1 , and summarize as a function of time
 
 Haotian: calculate the word frequency of responses for a certain country and/or sector as a function of time
+
+
+# 2025/01/16: Meeting  Update
+
+> To do:
+
+Vicky: Check the validity of 2015 CDP data C2.2 section,  microlevel visualization (questionnaire and answer) or table summary.
+
+Yueyang: Check the ordering of the prompts, and add the five fold on the prompts. Explanability of 2020 small section.
+
+Haotian: Stop word add table and others finetuning. Clean up the code. Business strategy chatgpt problem. 
